@@ -1,1 +1,1 @@
-Hello there, I'm Drake M. Farrokhi (He/Him) - A Master's student at the University of South Dakota working on my specialization in artificial intelligence & machine learning. With that being said, I'm primarily working on learning PyTorch (for deep learning machine learning specifically) and other AI related python packages commonly known in the field. Fun fact about me: I love javascript but it makes my skin crawl haha.
+Hello there, I'm Drake M. Farrokhi (He/Him) - A Master's student at the University of South Dakota
